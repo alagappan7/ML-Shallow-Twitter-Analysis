@@ -1,4 +1,4 @@
-# ML-Shallow-Twitter-Analysis
+# ML-Twitter-sentiment-analysis
 
 Twitter dataset:
 The data set includes tweets about the airline industry as well as user experiences.
